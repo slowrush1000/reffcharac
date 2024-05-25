@@ -1,0 +1,2 @@
+nmos 1 10 1.1 m n
+pmos 1 20 1.1 m p
